@@ -11,7 +11,7 @@ on:
     # folder has been modified.
     #
     # paths:
-    # - some-subfolder/**
+    #  - 3DPrinters/**
 
 # This job installs dependencies, builds the book, and pushes it to `gh-pages`
 jobs:
@@ -40,13 +40,13 @@ jobs:
     - name: cache executed notebooks
       uses: actions/cache@v4
       with:
-        path: _build/.jupyter_cache
+        path: 3DPrinter_build/.jupyter_cache
         key: jupyter-book-cache-${{ hashFiles('requirements.txt') }}
 
     # Build the book
     - name: Build the book
       run: |
-        jupyter-book build .
+        jupyter-book build 3DPrinters/
 
     # Upload the book's HTML as an artifact
     - name: Upload artifact
@@ -58,3 +58,7 @@ jobs:
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v4
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./lecture/_build/html
+
