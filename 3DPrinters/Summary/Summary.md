@@ -3,7 +3,7 @@
 ```{figure} ../ProjectImages/Workflow/WorkflowGraphic.png
 :alt:  Workflow (graphic)
 :width: 600px
-:align: left
+:align: center
 **Workflow**
 
 ```   
