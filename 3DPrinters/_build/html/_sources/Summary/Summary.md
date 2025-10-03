@@ -8,7 +8,7 @@
 
 ```
 
-### Find/Create a model (something) that interests you.
+### Find or Create a model (something) that interests you.
 
 Look in the Downloads section of this document for suggestions.
 
