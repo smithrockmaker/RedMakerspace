@@ -22,7 +22,8 @@ The overall process will look something like this.
 
 * **Go through our verification process (not implemented yet) to assure appropriate file types and gcode.**  
 
-In the beginning we may ask that you also bring in your Prusa Slicer file (.3mf) so we can open it up and check settings.
+> In the beginning we may ask that you also bring in your Prusa Slicer file (.3mf) so we can open it up and check settings.
+> 
 
 * **Load desired filament.**
 
@@ -37,4 +38,4 @@ In the beginning we may ask that you also bring in your Prusa Slicer file (.3mf)
 * **Leave the printer clean and prepared for the next user.**
 
 
-Seems pretty straight forward yes? In the beginning the makerspace staff and you will no doubt be very attentive to the process as we learn what might go wrong and modify our process guidance. 
+Seems pretty straight forward yes? In the beginning the makerspace staff and you will no doubt be very attentive to the process as we learn what might go wrong and modify our process guidance. Just a test
