@@ -3,7 +3,7 @@
 ```{figure} ../ProjectImages/WorkflowDesign.png
 :alt:  Design
 :width: 600px
-:align: left
+:align: center
 **Design**
 
 ```
@@ -18,7 +18,7 @@ The major CAD software packages can do truely amazing things and these days they
 ```{figure} ../ProjectImages/Design/FusionExample.jpg
 :alt: Fusion Example
 :width: 600px
-:align: left
+:align: center
 **Fusion Example**
 
 ```

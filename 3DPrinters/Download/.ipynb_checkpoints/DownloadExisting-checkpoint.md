@@ -1,9 +1,9 @@
 ### Downloading Printable Files
 
 ```{figure} ../ProjectImages/WorkflowSTL.png
-:alt:  DDownloading .stl Files
-:width: 400px
-:align: left
+:alt:  Downloading .stl Files
+:width: 600px
+:align: center
 **Downloading .stl Files**
 
 ```
@@ -35,7 +35,7 @@ Generall valuable to take the time to read the description provided by the creat
 ```{figure} ../ProjectImages/Download/ThingiverseObject.png
 :alt:  Thingiverse Object
 :width: 600px
-:align: left
+:align: center
 **Thingiverse Object**
 
 ```
@@ -43,7 +43,7 @@ Generall valuable to take the time to read the description provided by the creat
 ```{figure} ../ProjectImages/Download/PrintablesObject.png
 :alt:  Printables Object
 :width: 600px
-:align: left
+:align: center
 **Printables Object**
 
 ```
@@ -55,7 +55,7 @@ For the Printables object there is just a single file for the entire object. It 
 ```{figure} ../ProjectImages/Download/PrintablesFile.png
 :alt:  Printables File
 :width: 600px
-:align: left
+:align: center
 **Printables File**
 
 ```
@@ -65,7 +65,7 @@ The Thingiverse object has a different file structure because most people will w
 ```{figure} ../ProjectImages/Download/ThingiFiles.png
 :alt:  Thingiverse Files
 :width: 600px
-:align: left
+:align: center
 **Thingiverse Files**
 
 ```
@@ -79,7 +79,7 @@ Before I download a file for a particular object I generally read the comments t
 ```{figure} ../ProjectImages/Download/PrintablesComment1.png
 :alt:  Printables Comment
 :width: 600px
-:align: left
+:align: center
 **Printables Comment**
 
 ```
@@ -89,7 +89,7 @@ Sometimes you just get some insights into unexpected things that other people do
 ```{figure} ../ProjectImages/Download/PrintablesComment2.png
 :alt:  Printables Comment
 :width: 600px
-:align: left
+:align: center
 **Printables Comment**
 
 ```
@@ -99,7 +99,7 @@ The comments on the Thingiverse page are more innocuous but still helpful in eva
 ```{figure} ../ProjectImages/Download/ThingiComments.png
 :alt:  Thingiverse Comments
 :width: 600px
-:align: left
+:align: center
 **Thingiverse Comments**
 
 ```

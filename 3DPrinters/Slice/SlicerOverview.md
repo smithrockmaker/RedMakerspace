@@ -2,11 +2,11 @@
 
 ```{figure} ../ProjectImages/WorkflowSlice.png
 :alt:  Downloading .stl Files
-:width: 400px
-:align: left
+:width: 600px
+:align: center
 **Downloading .stl Files**
 
-```
+```  
 
 "Slicing" is the process of taking the output of a design process (usually an .stl file) and 'slicing' it into layers suitable for your target manufacturing process. In my experience this may be the most technically important step in the process of using the DPL Redmond Makerspace printers. Fortunately this is a process that you can perform on your own computer at home and we are delighted to provide support and guidance when you come into the makerspace.
 
@@ -21,11 +21,11 @@ Prusa Slicer is free and available to anyone and runs on all standard operating 
 
 ```{figure} ../ProjectImages/Slice/SlicerDownload.png
 :alt:  Downloading Prusa Slicer
-:width: 400px
-:align: left
+:width: 600px
+:align: center
 **Downloading Prusa Slicer**
 
-```
+```  
 
 Once you have installed Prusa Slicer you will find helpful tutorial resources on the [Prusa Slicer Support page](https://help.prusa3d.com/product/prusaslicer) Support materials at Prusa tend to be articles with embedded video to illustrate particular features or tasks. If you prefer article style tutorials this [First Print with Prusa Slicer](https://help.prusa3d.com/article/first-print-with-prusaslicer_1753) might work for you. If you are more of a video person here is a 20 min [Prusa Beginner Tutorial](https://www.youtube.com/watch?v=_kIqMPNQNSw&t=877s) from [3D Revolution](https://www.youtube.com/@3DRevolution) that is also linked at the bottom of the MakerSpace page. There are many many others.
 
@@ -34,10 +34,10 @@ When you open Prusa Slicer for the first time you will need to do some set up (c
 ```{figure} ../ProjectImages/Slice/PrusaSlicerDesktop.png
 :alt:  Prusa Slicer Desktop
 :width: 600px
-:align: left
+:align: center
 **Prusa Slicer Desktop**
 
-```
+```  
 
 ### Prusa User Mode:
 
@@ -46,9 +46,9 @@ In the very top right of the desktop is a dropdown menu identifying the "user mo
 ```{figure} ../ProjectImages/Slice/SlicerUserMode.png
 :alt:  Prusa Slicer User Mode
 :width: 600px
-:align: left
+:align: center
 **Prusa Slicer User Mode**
-```
+```  
 
 In this presentation I am only going to highlight the three primary choices you will need to make in the slicer software to prepare your 3D model (from an imported .stl file).
 
@@ -60,9 +60,9 @@ In the top right corner of the desktop are the 3 primary choices you will need t
 ```{figure} ../ProjectImages/Slice/SLicerBig3.png
 :alt:  Prusa Slicer Big 3
 :width: 600px
-:align: left
+:align: center
 **Prusa Slicer Big 3**
-```
+```  
 
 ### Printer Choice
 
@@ -71,9 +71,10 @@ Starting from the simplest choice which is the bottom of the 3 - which printer a
 ```{figure} ../ProjectImages/Slice/SlicerPrinters.png
 :alt:  Prusa Slicer Printer
 :width: 600px
-:align: left
+:align: center
 **Prusa Slicer Printer**
-```
+
+```   
 
 ### Filament Choice:
 
@@ -82,9 +83,9 @@ The second choice is also pretty straight forward which is to identify the filam
 ```{figure} ../ProjectImages/Slice/SlicerFilaments.png
 :alt:  Prusa Slicer Filaments
 :width: 600px
-:align: left
+:align: center
 **Prusa Slicer Filaments**
-```
+```   
 
 ### Print Settings Choice:
 
@@ -93,9 +94,9 @@ The choice of Print Settings is the one that will greatest impact on the charact
 ```{figure} ../ProjectImages/Slice/SlicerPrintSettings.png
 :alt:  Prusa Slicer Print Settings
 :width: 600px
-:align: left
+:align: center
 **Prusa Slicer Print Settings**
-```
+```  
 
 ### Final Output: gcode
 

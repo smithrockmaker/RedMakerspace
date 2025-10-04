@@ -9,7 +9,7 @@ The 3D printers at the DPL Makerspaces are descended from RepRap printers. ReRap
 ```{figure} ../ProjectImages/History/RepRapMachines.png
 :alt:  RepRap Machines
 :width: 600px
-:align: left
+:align: center
 **RepRap Machines**
 
 ```
@@ -19,7 +19,7 @@ Josef Prusa was invovled in the RepRap project relatively early and designed a n
 ```{figure} ../ProjectImages/History/JosefPrusa.jpg
 :alt:  Josef Prusa
 :width: 600px
-:align: left
+:align: center
 **Josef Prusa**
 
 ```
@@ -29,7 +29,7 @@ The Prusa MK4 printers that we use in the DPL (Redmond) Makerspace are Prusa MK4
 ```{figure} ../ProjectImages/History/MK4S.jpg
 :alt:  MK4S
 :width: 600px
-:align: left
+:align: center
 **Prusa MK4S**
 
 ```

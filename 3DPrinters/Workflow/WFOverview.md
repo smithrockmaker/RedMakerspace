@@ -19,7 +19,7 @@ A transformative idea from the beginings of 3D printing was the idea that you ca
 ```{figure} ../ProjectImages/Workflow/TopographicModel.jpg
 :alt:  Topographic Model
 :width: 600px
-:align: left
+:align: center
 **Topographic Model**
 
 ```
@@ -45,10 +45,12 @@ Not surprisingly the output of the printing process is the printed object. You m
 ```{figure} ../ProjectImages/Workflow/WorkflowGraphic.png
 :alt:  Workflow (graphic)
 :width: 600px
-:align: left
+:align: center
 **Workflow**
 
 ```
+
+
 Now we will take a little closer look at each of these stages in the workflow.
 
 
