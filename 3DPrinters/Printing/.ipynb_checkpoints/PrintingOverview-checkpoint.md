@@ -39,4 +39,4 @@ The overall process will look something like this.
 
 ### Final Thought:
 
-Seems pretty straight forward yes? In the beginning the makerspace staff and you will no doubt be very attentive to the process as we learn what might go wrong and modify our process guidance. 
+Seems pretty straight forward yes? In the beginning the makerspace staff and you will no doubt be very attentive to the process as we learn what might go wrong and modify our process guidance. We will make adjustments to these processes as we learn more.
