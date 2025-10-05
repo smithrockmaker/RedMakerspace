@@ -9,7 +9,7 @@ Lets start by making sure that you know how to find the Makerspace page on the D
 ```{figure} ../ProjectImages/Intro/DPLDropdown.png
 :alt:  DPL Dropdown Menu
 :width: 600px
-:align: left
+:align: center
 **DPL Dropdown Menu**
 
 ```
@@ -19,7 +19,7 @@ Scrolling down you will find the listing for the Makerspace hours. This is relev
 ```{figure} ../ProjectImages/Intro/MakerspaceHrs.png
 :alt:  DPL Makerspace Hours
 :width: 600px
-:align: left
+:align: center
 **DPL Makerspace Hours**
 
 ```
@@ -28,7 +28,7 @@ Scrolling further down there is a section for Reservable Equipment. At this mome
 ```{figure} ../ProjectImages/Intro/EquipReserve.png
 :alt:  Makerspace Equipment Reservation
 :width: 600px
-:align: left
+:align: center
 **Makerspace Equipment Reservation**
 
 ```

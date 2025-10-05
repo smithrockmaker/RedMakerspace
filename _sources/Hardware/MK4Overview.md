@@ -11,7 +11,7 @@ The Pruse MK4S with an enclosure is our current standard FDM printer in the DPL 
 ```{figure} ../ProjectImages/Hardware/MK4SPrinter.png
 :alt:  Prusa MK4S Printer
 :width: 600px
-:align: left
+:align: center
 **Prusa MK4S Printer**
 
 ```
