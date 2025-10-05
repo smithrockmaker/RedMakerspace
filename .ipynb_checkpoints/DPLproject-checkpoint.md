@@ -1,6 +1,6 @@
 ### Why?
 
-Makerspaces are new to the Deschutes Public Library (DPL) system. The first of these community spaces is in the Redmond Branch Library. In the Redmond Makerspace there a number of resources that are planned to be available to patrons as the makerspace develops. The 3D printers are one of those resources. This is a tool to guide patrons in accessing and using the 3D printers. Your feedback about this guide is always welcome as we work to improve your experience with the 3D printers in the makerspace. Feel free to share your insights with us with us[here](bemerson@cocc.edu).
+Makerspaces are new to the Deschutes Public Library (DPL) system. The first of these community spaces is in the Redmond Branch Library. In the Redmond Makerspace there a number of resources that are planned to be available to patrons as the makerspace develops. The 3D printers are one of those resources. This is a tool to guide patrons in accessing and using the 3D printers. Your feedback about this guide is always welcome as we work to improve your experience with the 3D printers in the makerspace. Feel free to share your insights with us with us [here](bemerson@cocc.edu).
 
 ### **Important Note:**
 
@@ -17,4 +17,8 @@ This guide is being created in [jupyter{book}](https://jupyterbook.org/en/stable
 ### Creative Commons:
 
 I am deeply attached to the open source movement so you will not be surprised that this work is licensed under the CC Atribution-ShareAlike 4.0 International License. I well endeavor to be sure that I have your explicit permission to share any content you contribute to this book.
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
+
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
